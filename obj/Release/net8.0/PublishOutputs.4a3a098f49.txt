@@ -1,0 +1,7 @@
+C:\Users\Info Tech\webtest2\publish\webtest2.exe
+C:\Users\Info Tech\webtest2\publish\appsettings.Development.json
+C:\Users\Info Tech\webtest2\publish\appsettings.json
+C:\Users\Info Tech\webtest2\publish\webtest2.dll
+C:\Users\Info Tech\webtest2\publish\webtest2.deps.json
+C:\Users\Info Tech\webtest2\publish\webtest2.runtimeconfig.json
+C:\Users\Info Tech\webtest2\publish\webtest2.pdb
